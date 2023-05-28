@@ -5,9 +5,12 @@
  * @version 2.4
 */
 
-.app-2CXKsg {
-    background-image: url(https://images.alphacoders.com/125/1251542.jpg);
-    background-size: cover;
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+:root {
+--background-image: url('https://i.imgur.com/zk3Wm1m.jpg');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
 }
 
 .bg-1QIAus {
